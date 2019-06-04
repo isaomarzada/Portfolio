@@ -1,0 +1,64 @@
+.navlinks a {
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+  padding: 10px;
+  font-family: fantasy;
+  float: right;
+
+}
+
+/*html {
+  scroll-behavior: smooth;
+}*/
+
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  height: 100px;
+  padding-top: 50px;
+  color: white;
+  font-family: sans-serif;
+}
+
+body p {
+  font-size: 30px;
+  color: black;
+  height: 25px;
+  text-align: center;
+  font-family: arial;
+  padding-top: 50px;
+}
+
+body {
+  background-color: rgb(136, 146, 176);
+}
+
+.section1 {
+  height: 465px;
+}
+
+#section2 {
+  height: 500px;
+}
+
+.footer {
+  padding-left: 720px;
+}
+
+.container {
+  width: 28%;
+  padding-left: 555px;
+  margin-top: 170px;
+}
+
+h1 {
+  font-size: 67px;
+  text-align: center;
+}
+
+#section2 {
+  height: 600px;
+  padding-top: 200px;
+}
